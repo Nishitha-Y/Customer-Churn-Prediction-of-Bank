@@ -9,7 +9,7 @@ The aim of this project is to predict whether the customer will churn or not fro
 - Model evaluation
 
 ## 🔍 Dataset
-- Source: Kaggle/Bank Churn Dataset
+- Source: Kaggle_Bank Churn Dataset
 - Features: Credit score, age, balance, etc.
 - Target: Churn (0 or 1)
 
@@ -19,3 +19,10 @@ The aim of this project is to predict whether the customer will churn or not fro
 - matplotlib
 - seaborn
 - scikit-learn
+
+## Files
+- customer churn.ipynb  — Main notebook with all code and analysis
+- train_PDjVQMB.csv — Data used for training/testing the model
+- test_lTY72QC.csv - Data used for testing the model
+- README.md — Project overview and setup
+
